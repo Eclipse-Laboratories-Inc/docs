@@ -1,1 +1,1 @@
-# docs
+This repository contains public-facing documents for Eclipse Labs. Eclipse Labs is committed to transparency and open collaboration. This repository serves as the central location for all public documentation, specifications, and resources related to our projects and initiatives. Over time, we plan to add technical documentation, specs, papers, release notes and the like. Please stay tuned for more.
